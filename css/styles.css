@@ -11318,3 +11318,11 @@ section#contact form#contactForm :-ms-input-placeholder {
 #mainNav {
     background-color: #212529;
 }
+
+.page-section {
+    padding-top: 12rem;
+}
+
+#contact.page-section {
+    padding: 13rem 0;
+}
