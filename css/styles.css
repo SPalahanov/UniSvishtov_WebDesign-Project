@@ -11375,3 +11375,25 @@ header.masthead {
 #contact-us-button .container {
     text-align: center !important;
 }
+
+.btn.disabled {
+    background-color: #0095ff;
+    border-color: #0095ff;
+    color: #fff;
+}
+
+.btn.disabled:hover {
+    background-color: #fff;
+    border-color: #fff;
+    color: #0095ff;
+}
+
+.btn.disabled:active {
+    background: #0095ff !important;
+    border-color: #0095ff !important;
+}
+
+.btn.disabled:disabled {
+    background: #0095ff !important;
+    border-color: #0095ff !important;
+}
