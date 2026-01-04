@@ -11362,3 +11362,7 @@ header.masthead {
     padding-top: 2rem !important;
     padding-bottom: 5rem !important;
 }
+
+#mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #0095ff;
+}
