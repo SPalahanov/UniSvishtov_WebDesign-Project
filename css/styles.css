@@ -11315,6 +11315,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+/*===================================================================*/
+
 #mainNav {
     background-color: #212529;
 }
@@ -11423,4 +11425,13 @@ header.masthead {
 
 .timeline:before {
     background-color: #0095ff;
+}
+
+.team-member img {
+    border-color: #0095ff;
+}
+
+#team .row {
+    flex-direction: column;
+    align-content: center;
 }
