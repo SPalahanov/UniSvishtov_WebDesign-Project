@@ -11353,3 +11353,7 @@ header.masthead {
     background: #0095ff !important;
     border-color: #0095ff !important;
 }
+
+.svg-inline--fa.fa-stack-2x.text-primary {
+   color: #0095ff !important;
+}
