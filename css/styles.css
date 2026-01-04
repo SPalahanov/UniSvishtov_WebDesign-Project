@@ -11415,3 +11415,12 @@ header.masthead {
 .modal-content {
     background-color: #d7d7d7;
 }
+
+.timeline > li .timeline-image {
+    border-color: #0095ff;
+    background-color: #0095ff;
+}
+
+.timeline:before {
+    background-color: #0095ff;
+}
