@@ -11326,3 +11326,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 #contact {
     padding: 13rem 0;
 }
+
+header.masthead {
+    padding-top: 25rem;
+    background-image: url("../assets/img/header-bg.png");
+    opacity: 0.8;
+}
