@@ -11397,3 +11397,21 @@ header.masthead {
     background: #0095ff !important;
     border-color: #0095ff !important;
 }
+
+#portfolio .portfolio-item .portfolio-caption {
+    padding: 2rem;
+    text-align: center;
+    background: none;
+}
+
+.row {
+    justify-content: center;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background: #0095ff;
+}
+
+.modal-content {
+    background-color: #d7d7d7;
+}
