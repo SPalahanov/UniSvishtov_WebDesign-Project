@@ -11332,3 +11332,24 @@ header.masthead {
     background-image: url("../assets/img/header-bg.png");
     opacity: 0.8;
 }
+
+.btn-primary {
+    background-color: #0095ff;
+    border-color: #0095ff;
+}
+
+.btn-primary:hover {
+    background-color: #fff;
+    border-color: #fff;
+    color: #0095ff;
+}
+
+.btn-primary:active {
+    background: #0095ff !important;
+    border-color: #0095ff !important;
+}
+
+.btn-primary:disabled {
+    background: #0095ff !important;
+    border-color: #0095ff !important;
+}
