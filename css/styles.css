@@ -11435,3 +11435,12 @@ header.masthead {
     flex-direction: column;
     align-content: center;
 }
+
+.original-template {
+    color: #0095ff;
+}
+
+.original-template:hover {
+    color: #0095ff;
+    font-weight: bold;
+}
